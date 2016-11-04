@@ -7,10 +7,8 @@
 
 Copyright (c) 2015 Derek Eder. Released under the MIT License.
 
-If you use this template, please provide the following attribution in the footer: 
-
 ```html
-<a href='http://derekeder.com/searchable_map_template/'>Searchable Map Template</a> 
+<a href='http://derekeder.com/searchable_map_template/'>Map</a> 
 by <a href='http://derekeder.com'>Derek Eder</a>.
 ```
 
